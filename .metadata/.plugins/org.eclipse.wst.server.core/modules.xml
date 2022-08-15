@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:JDBC" serverId="apache-tomcat-9.0.46 at localhost"/>
+</modules>
